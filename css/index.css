@@ -1,0 +1,103 @@
+* {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: #FFF;
+}
+
+
+li a {
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+h2 {
+    text-align: left center;
+    font-size: 2em;
+    padding-left: 40px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 10px 20px;
+    border-top-width: 1px;
+}
+
+#settings a:hover {
+    background: #e1e1f3;
+    text-decoration: double;
+}
+
+#settings a:link, #settings a:visited {
+    color: black;
+}
+
+
+#settings{
+    width: 200px;
+    height: 250px;
+    float: left;
+    border-right: 1px solid #E1E1F3;
+    margin-top: 15px;
+}
+#area-lateral {
+    width: 240px;
+    float: right;
+    padding: 500px;
+    border: 1px solid gray;
+}
+.acc-set {
+    text-align: center left;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #E1E1F3;
+    padding-left: 80px;
+    margin-left:50px ;
+}
+h4 {
+    padding-left: 1px;
+}
+
+.text1 {
+    font-size: 0.8em;
+}
+input{
+    border-radius: 8px;
+    padding: 10px 5px;
+
+}
+
+.button-pass {
+    background: #26263e;
+    color: white;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+#del {
+    color: #E7537E;
+}
+
+#Account .account a,
+#Notifications .notifications a {
+    background: #e1e1f3;
+}
+
+.normal {
+    font-weight: normal;
+    font-size: 0.9em;
+}
+
+#acc-top {
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+div {
+    width: 500px;
+    height: 200px;
+    float: right;
+    float: left;
+    padding: 10px;
+    
+}
